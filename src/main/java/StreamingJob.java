@@ -16,8 +16,6 @@
  * limitations under the License.
  */
 
-package d;
-
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
 /**
